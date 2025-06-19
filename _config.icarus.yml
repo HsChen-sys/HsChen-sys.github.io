@@ -3,11 +3,11 @@ version: 5.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: https://pub-9f219583be2b4980b9169a80036a84bc.r2.dev/website_favicon.png
 # Page metadata configurations
 head:
 
-    favicon: https://pub-9f219583be2b4980b9169a80036a84bc.r2.dev/head.jpeg
+    favicon: https://pub-9f219583be2b4980b9169a80036a84bc.r2.dev/website_favicon.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -114,11 +114,11 @@ navbar:
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/HsChen-sys
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: © 2019
+    copyright: ''
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -129,7 +129,7 @@ footer:
             url: https://creativecommons.org/licenses/by/4.0/
         Download on GitHub:
             icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
+            url: https://github.com/HsChen-sys
 # Article related configurations
 article:
     # Code highlight settings
@@ -142,9 +142,9 @@ article:
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
         fold: unfolded
     # Whether to show estimated article reading time
-    readtime: true
+    readtime: false
     # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
-    update_time: true
+    update_time: false
     # Article licensing block
     licenses:
         Creative Commons:
@@ -231,11 +231,11 @@ widgets:
         # Author name
         author: Haisheng Chen
         # Author title
-        author_title: Your title
+        author_title: Efficient ML
         # Author's current location
         location: San Diego, United States
         # URL or path to the avatar image
-        avatar: 
+        avatar: https://pub-9f219583be2b4980b9169a80036a84bc.r2.dev/head.jpeg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
@@ -246,19 +246,12 @@ widgets:
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
-            Facebook:
-                icon: fab fa-facebook
-                url: https://facebook.com
-            Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
-            RSS:
-                icon: fas fa-rss
-                url: /
+                url: https://github.com/HsChen-sys
+            Linkedin:
+                icon: fab fa-linkedin
+                url: https://www.linkedin.com/in/haisheng-chen-2114b0274/
+
+
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
