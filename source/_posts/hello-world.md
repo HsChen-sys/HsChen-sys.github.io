@@ -14,7 +14,7 @@ Before coming to UC San Diego, I spent a gap year at [AMD](https://www.amd.com/e
 I’m passionate about contributing to open-source LLM inference projects like [vLLM](https://github.com/vllm-project/vllm) and [SGLang](https://github.com/sgl-project/sglang). Just like countless other community-driven initiatives, these systems thrive on collaboration from developers around the world. And beyond the thrill of low-level optimizations, I find it endlessly fascinating to put billions of matmuls and other computations into producing what feels like intelligence.  
 
 ## Career Goal
-I will graduate from UC San Diego in December 2025. I am now actively seeking roles in the LLM systems space. I am open to opportunities based in the United States or China and eager to contribute to efficient large-scale LLM deployment.  
+I will graduate from UC San Diego in December 2025. I am now actively seeking roles in the LLM systems industry. I am open to opportunities based in the United States or China and eager to contribute to efficient large-scale LLM deployment.  
 
 ## About this site
 This site is designed with three main goals in mind:
