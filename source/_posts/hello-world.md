@@ -7,7 +7,7 @@ tag: home
 ---
 
 ## About Me
-I am Haisheng Chen, a master's student at ECE, UC San Diego and a research intern in [Z Lab](https://z-lab.ai/), under the supervision of [Dr. Zhijian Liu](https://zhijianliu.com/). My research centers on efficient LLM-everything from model quantization and sparse-attention to building inference systems.
+I am Haisheng Chen, a master's student at ECE, UC San Diego and a research intern in [Z Lab](https://z-lab.ai/), under the supervision of [Dr. Zhijian Liu](https://zhijianliu.com/). My research centers on efficient LLM -- everything from model quantization and sparse-attention to building inference systems.
 
 Before coming to UC San Diego, I spent a gap year at [AMD](https://www.amd.com/en.html)’s Shanghai office as a full-time GPU software intern. There, I gained a deep understanding of GPU architectures and honed my skills in developing high-performance CUDA kernels. I also helped enable AMD’s support for the vLLM inference framework—designing Docker-based deployment pipelines and troubleshooting a variety of compatibility issues along the way.
 
