@@ -6,8 +6,8 @@ variant: default
 logo: /img/logo.svg
 # Page metadata configurations
 head:
-    # URL or path to the website's icon
-    favicon: /img/favicon.svg
+
+    favicon: https://pub-9f219583be2b4980b9169a80036a84bc.r2.dev/head.jpeg
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
