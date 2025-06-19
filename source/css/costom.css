@@ -1,0 +1,23 @@
+/* /Users/langz/reps/logbook/source/css/custom.css */
+
+/* 示例：更改全局字体 */
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+/* 示例：更改文章标题颜色 */
+.article .article-title {
+    color: #d33a0f; /* 一个示例颜色 */
+}
+
+/* 示例：给链接添加下划线 */
+a {
+    text-decoration: underline;
+}
+
+/* 示例：自定义 cyberpunk 主题下的某个元素颜色 (如果你切换到 cyberpunk) */
+/*
+body.theme-cyberpunk .navbar {
+    background-color: #1a1a2e;
+}
+*/
