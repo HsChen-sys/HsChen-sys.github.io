@@ -17,7 +17,7 @@ I’m passionate about contributing to open-source LLM inference projects like [
 I will graduate from UC San Diego in December 2025. I am now actively seeking roles in the LLM systems industry. I am open to opportunities based in the United States or China and eager to contribute to efficient large-scale LLM deployment.  
 
 ## About this site
-This site is designed with three main goals in mind:
+This site is designed with the following goals in mind:
 
 1. **Discuss LLM System Technical Details**  
    Dive into the architectures, optimizations, and implementation tricks that power large-language-model inference systems.
