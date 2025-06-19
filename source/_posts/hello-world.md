@@ -23,4 +23,3 @@ This site is designed with three main goals in mind:
    Dive into the architectures, optimizations, and implementation tricks that power large-language-model inference systems.
 
 2. **Showcase Research Projects**  
-   Present my latest work on quantization, sparse attention, and end-to-end efficient inference.
