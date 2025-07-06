@@ -5,7 +5,7 @@ keywords: null
 author: Haisheng Chen
 language: en
 timezone: ''
-url: http://example.com
+url: https://hschen-sys.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -70,3 +70,8 @@ index2_generator:
       - tag home
     per_page: 1
 
+
+robotstxt:
+  User-agent: '*'
+  Allow: '/'
+  Sitemap: https://hschen-sys.github.io/sitemap.xml

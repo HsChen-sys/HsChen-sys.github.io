@@ -3,7 +3,7 @@ title: Registering custom C++/CUDA operators using modern PyTorch APIs
 layout: post
 categories: blog
 tag: PyTorch CUDA 
-
+date: 2025-07-05
 ---
 
 
