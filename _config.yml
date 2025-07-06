@@ -20,6 +20,7 @@ code_dir: downloads/code
 i18n_dir: ':lang'
 skip_render: 
   - google13a13c78a55ca1d8.html
+  - sitemap.xml
 new_post_name: ':title.md'
 default_layout: post
 titlecase: false
