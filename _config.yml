@@ -18,7 +18,8 @@ archive_dir: archives
 category_dir: ""
 code_dir: downloads/code
 i18n_dir: ':lang'
-skip_render: null
+skip_render: 
+  - google13a13c78a55ca1d8.html
 new_post_name: ':title.md'
 default_layout: post
 titlecase: false
@@ -75,3 +76,6 @@ robotstxt:
   User-agent: '*'
   Allow: '/'
   Sitemap: https://hschen-sys.github.io/sitemap.xml
+
+
+  
