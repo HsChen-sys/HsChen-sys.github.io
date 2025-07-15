@@ -1,6 +1,6 @@
 ---
 title: Haisheng Chen
-layout: post
+layout: page
 categories: welcome
 tag: home
 date: 2025-06-17
